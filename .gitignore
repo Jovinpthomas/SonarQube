@@ -1,0 +1,6 @@
+# Ignore scanner and temp files
+.scannerwork/
+.env
+*.log
+logs/
+cache/
